@@ -1,0 +1,13 @@
+# ninja log v5
+0	103	6993039351021221	CMakeFiles/anagrams.dir/main.c.obj	add019e593389c76
+104	206	6993039352016279	anagrams.exe	85fcdd876fc4de0c
+2	62	6993039824746155	CMakeFiles/anagrams.dir/main.c.obj	add019e593389c76
+63	147	6993039825559048	anagrams.exe	85fcdd876fc4de0c
+2	62	6993040208686944	CMakeFiles/anagrams.dir/main.c.obj	add019e593389c76
+63	150	6993040209524702	anagrams.exe	85fcdd876fc4de0c
+2	63	6993041774530689	CMakeFiles/anagrams.dir/main.c.obj	add019e593389c76
+63	151	6993041775383456	anagrams.exe	85fcdd876fc4de0c
+2	66	6993043839517614	CMakeFiles/anagrams.dir/main.c.obj	add019e593389c76
+66	157	6993043840395261	anagrams.exe	85fcdd876fc4de0c
+2	77	6993046038770978	CMakeFiles/anagrams.dir/main.c.obj	add019e593389c76
+78	208	6993046040047589	anagrams.exe	85fcdd876fc4de0c
