@@ -1,0 +1,7 @@
+# ninja log v5
+0	77	6993022062137671	CMakeFiles/addNumbersUsingPointers.dir/main.c.obj	b4f41ba9863f34fa
+78	208	6993022063414256	addNumbersUsingPointers.exe	8b4df6e77154254e
+2	60	6993022239377996	CMakeFiles/addNumbersUsingPointers.dir/main.c.obj	b4f41ba9863f34fa
+61	147	6993022240225723	addNumbersUsingPointers.exe	8b4df6e77154254e
+2	75	6993022561863644	CMakeFiles/addNumbersUsingPointers.dir/main.c.obj	b4f41ba9863f34fa
+76	190	6993022562980646	addNumbersUsingPointers.exe	8b4df6e77154254e
