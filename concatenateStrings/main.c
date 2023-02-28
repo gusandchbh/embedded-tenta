@@ -3,8 +3,12 @@
 #include <string.h>
 
 int main() {
-    char* str1 = "I love"; // string1
-    char* str2 = " DIT632"; // string2
+    char str1[20];
+    char str2[20];
+    printf("Enter the first string: ");
+    scanf("%s", str1);
+    printf("Enter the second string: ");
+    scanf("%s", str2);
 
     int len1 = strlen(str1); // get length of string1
     int len2 = strlen(str2); // get length of string2

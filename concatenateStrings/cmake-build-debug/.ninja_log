@@ -1,3 +1,5 @@
 # ninja log v5
 1	79	6993087089774025	CMakeFiles/concatenateStrings.dir/main.c.obj	c8c8cb8461c3b02c
 81	170	6993087090651671	concatenateStrings.exe	7304813bcf0f87dd
+2	68	6993089964111343	CMakeFiles/concatenateStrings.dir/main.c.obj	c8c8cb8461c3b02c
+69	164	6993089965038867	concatenateStrings.exe	7304813bcf0f87dd
