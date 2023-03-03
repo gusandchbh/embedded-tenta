@@ -1,0 +1,3 @@
+C:/Users/chris/Desktop/embedded-tenta/4. Print number of a day within year/cmake-build-debug/CMakeFiles/4__Print_number_of_a_day_within_year.dir
+C:/Users/chris/Desktop/embedded-tenta/4. Print number of a day within year/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chris/Desktop/embedded-tenta/4. Print number of a day within year/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,19 @@
+# ninja log v5
+1	381	6995483432122836	CMakeFiles/4__Print_number_of_a_day_within_year.dir/main.c.obj	8bbbd47b3b185ee8
+383	471	6995483433000486	4__Print_number_of_a_day_within_year.exe	638fee7b6f4f752f
+1	57	6995483970984393	CMakeFiles/4__Print_number_of_a_day_within_year.dir/main.c.obj	8bbbd47b3b185ee8
+58	148	6995483971847171	4__Print_number_of_a_day_within_year.exe	638fee7b6f4f752f
+2	59	6995484198153156	CMakeFiles/4__Print_number_of_a_day_within_year.dir/main.c.obj	8bbbd47b3b185ee8
+60	148	6995484199015902	4__Print_number_of_a_day_within_year.exe	638fee7b6f4f752f
+2	79	6995484376490732	CMakeFiles/4__Print_number_of_a_day_within_year.dir/main.c.obj	8bbbd47b3b185ee8
+79	184	6995484377508003	4__Print_number_of_a_day_within_year.exe	638fee7b6f4f752f
+1	86	6995484695218029	CMakeFiles/4__Print_number_of_a_day_within_year.dir/main.c.obj	8bbbd47b3b185ee8
+87	184	6995484696165490	4__Print_number_of_a_day_within_year.exe	638fee7b6f4f752f
+2	74	6995484859565469	CMakeFiles/4__Print_number_of_a_day_within_year.dir/main.c.obj	8bbbd47b3b185ee8
+74	194	6995484860742306	4__Print_number_of_a_day_within_year.exe	638fee7b6f4f752f
+2	58	6995486844248842	CMakeFiles/4__Print_number_of_a_day_within_year.dir/main.c.obj	8bbbd47b3b185ee8
+59	152	6995486845136459	4__Print_number_of_a_day_within_year.exe	638fee7b6f4f752f
+2	62	6995487508288667	CMakeFiles/4__Print_number_of_a_day_within_year.dir/main.c.obj	8bbbd47b3b185ee8
+62	161	6995487509216189	4__Print_number_of_a_day_within_year.exe	638fee7b6f4f752f
+1	59	6995492294491001	CMakeFiles/4__Print_number_of_a_day_within_year.dir/main.c.obj	8bbbd47b3b185ee8
+60	154	6995492295418516	4__Print_number_of_a_day_within_year.exe	638fee7b6f4f752f
