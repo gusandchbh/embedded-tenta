@@ -1,0 +1,5 @@
+# ninja log v5
+0	67	6995578716093050	CMakeFiles/12__Count_trailing_zeros.dir/main.c.obj	772eb8f7d35c0e5b
+68	191	6995578717309796	12__Count_trailing_zeros.exe	95368c4fdc1ca040
+1	65	6995578818456905	CMakeFiles/12__Count_trailing_zeros.dir/main.c.obj	772eb8f7d35c0e5b
+65	207	6995578819843192	12__Count_trailing_zeros.exe	95368c4fdc1ca040
