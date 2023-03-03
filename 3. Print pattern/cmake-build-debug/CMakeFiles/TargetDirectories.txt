@@ -1,0 +1,3 @@
+C:/Users/chris/Desktop/embedded-tenta/3. Print pattern/cmake-build-debug/CMakeFiles/3__Print_pattern.dir
+C:/Users/chris/Desktop/embedded-tenta/3. Print pattern/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chris/Desktop/embedded-tenta/3. Print pattern/cmake-build-debug/CMakeFiles/rebuild_cache.dir
