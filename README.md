@@ -153,7 +153,7 @@ Trailing zeros: 1
 ```
  
  
-## 12
+## 13
 Write a C program to input a number from user and count total number of ones (1s) and zeros (0s) 
 in the given number using bitwise operator.  
  
@@ -165,7 +165,7 @@ Output number of ones: 3
 Output number of zeros: 29 
 ```
  
-## 13
+## 14
 Write a C program to input any number and check whether the given number is even or odd using 
 bitwise operator.  
  
@@ -176,7 +176,7 @@ Output
 12 is even 
 ```
  
-## 14 
+## 15 
 Write a C program to concatenate two strings in single string. You cannot use the built-in function 
 here. You should use dynamic memory allocation at the heap.  
  
@@ -188,7 +188,7 @@ Output
 Concatenated string: I love DIT632 
 ```
  
-## 15 
+## 16
 Write  a  C  program  to  input  any  number  from  user  and  find  highest  order  set bit  of  given  number 
 using bitwise operator. 
  
@@ -200,7 +200,7 @@ Output
 Highest order set bit in 22 is 4. 
 ```
  
-## 16 
+## 17
 Write  a  C  program  to  input  marks  of  five  subjects  Physics,  Chemistry,  Biology,  Mathematics  and 
 Computer, calculate percentage and grade according to given conditions: 
 ```
@@ -225,7 +225,7 @@ Percentage = 95.00
 Grade A
 ```
 
-## 17
+## 18
  
 The following program has two mistakes in it, please find them, explain why these are mistakes 
 and correct them:  
@@ -261,7 +261,7 @@ int main()
  
 Tips! Execute the program and test it! 
  
-## 18
+## 19
 There are two mistakes in this program. Please find them, explain them and correct them: 
 ```
 #include<stdio.h> //Used to include basic c library files 
@@ -279,7 +279,7 @@ void main() //Used to execute the C application
 } 
 ```
 
-## 19
+## 20
  
 The program below contains two mistakes. Please find them, explain them and correct them.  
 ```
@@ -303,7 +303,7 @@ int sum(int a, int b)
 }
 ```
 
-## 20
+## 21
  
 The program below handles linked lists, but it is incomplete. I’ve forgotten to add the body of the 
 function “length” and the code to delete the list. I marked the places with //TODO:. Please add the 
@@ -409,7 +409,7 @@ void main() {
 }
 ```
 
-## 21
+## 22
  
 TinkerCad/Arduino questions 
  
@@ -426,7 +426,7 @@ o Where you define the distance when you turn on and off the LEDs (1 point)
 o Where you define the function that receives the value of the sensor (3 points) 
 o Comments (1 point) 
 
-## 22
+## 23
  
 Create a system with the force sensor and a buzzer. The system should use the buzzer to make noise 
 when a force is applied to the force sensor. The frequency of buzzing should be based on the force 
