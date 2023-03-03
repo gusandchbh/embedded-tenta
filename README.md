@@ -47,7 +47,7 @@ print_bin(make_16bit(7, 1)) => 00000000.00000000.00000001.00000111
 
 ## 3
 Write a program to print the following pattern: 
-                           C 
+                        C 
                       i   I 
                     s       s 
                   b           b 
