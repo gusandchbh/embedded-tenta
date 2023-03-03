@@ -1,0 +1,3 @@
+C:/Users/chris/Desktop/embedded-tenta/5. Count chars,words and lines/cmake-build-debug/CMakeFiles/5__Count_chars_words_and_lines.dir
+C:/Users/chris/Desktop/embedded-tenta/5. Count chars,words and lines/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chris/Desktop/embedded-tenta/5. Count chars,words and lines/cmake-build-debug/CMakeFiles/rebuild_cache.dir
