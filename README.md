@@ -25,13 +25,15 @@ which prints the multiplication of a/c and b/d as a simplified fraction.
 ## 2
 The types uint16_t and uint32_t can be found in the library stdint. 
 a) Write a function that prints an unsigned 32-bit integer in binary form.  
-The display format should include a separator at byte boundaries.  
+The display format should include a separator at byte boundaries. 
+```
 Example:  
 print_bin(0) => 00000000.00000000.00000000.00000000  
 print_bin(1) => 00000000.00000000.00000000.00000001  
 print_bin(2) => 00000000.00000000.00000000.00000010  
 print_bin(43) => 00000000.00000000.00000000.00101011  
 print_bin(123456789) => 00000111.01011011.11001101.00010101  
+```
 b) Write a function  
 uint16_t make_16bit(uint8_t least_significant, uint8_t 
 most_significant);  
