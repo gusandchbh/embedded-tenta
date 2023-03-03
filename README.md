@@ -47,6 +47,7 @@ print_bin(make_16bit(7, 1)) => 00000000.00000000.00000001.00000111
 
 ## 3
 Write a program to print the following pattern: 
+```
                         C 
                       i   I 
                     s       s 
@@ -54,6 +55,7 @@ Write a program to print the following pattern:
                 e               e 
               s                   s 
             t s e b s i C i s b e s t 
+```            
  
  
 ## 4
@@ -73,102 +75,116 @@ lines, and print these quantities.
 Write a program in C to add two numbers using pointers.  
  
 Test Data : 
+```
 Input the first number : 5 
 Input the second number : 6 
 Expected Output : 
 The sum of the entered numbers is : 11  
+```
 
 ## 7
 Write a program in C to print all permutations of a given string using pointers.  
   
 Expected Output : 
+```
 The permutations of the string are :                                                                          
 abcd  abdc  acbd  acdb  adcb  adbc  bacd  badc  bcad  bcda  
 bdca  bdac  cbad  cbda  cabd  cadb  cdab  cdba  db 
 ca  dbac  dcba  dcab  dacb  dabc 
+```
 
 ## 8
 Write a program in C to count the number of vowels and consonants in a string using a pointer.  
  
 Test Data : 
+```
 Input a string: string 
 Expected Output : 
 Number of vowels : 1                                                                                          
 Number of consonants : 5 
+```
 
 ## 9
 Write a program in C to check whether two given strings are an anagram. You must use pointers in 
 this task.   
  
 Test Data : 
+```
 Input the first String : spare 
 Input the second String : pears 
 Expected Output : 
  spare and pears are Anagram.    
+ ```
 
 ## 10
 Write a C program to input any number from user and check whether nth bit of the given number is 
 set (1) or not (0).  
  
-Example 
-Input 
+Example Input 
+```
 Input number: 12 
 Input nth bit number: 2 
 Output 
 2 bit of 12 is set (1) 
+```
  
 ## 11 
 Write a C program to input any number from user and toggle or invert or flip nth bit of the given 
 number using bitwise operator.   
-Example 
-Input 
+Example Input 
+```
 Input number: 22 
 Input nth bit to toggle: 1 
 Output 
 After toggling nth bit: 20 (in decimal) 
+```
  
 ## 12
 Write a C program to input any number from user and count number of trailing zeros in the given 
 number using bitwise operator.   
  
-Example 
-Input 
+Example Input 
+```
 Input any number: 22 
 Output 
 Trailing zeros: 1 
+```
  
  
 ## 12
 Write a C program to input a number from user and count total number of ones (1s) and zeros (0s) 
 in the given number using bitwise operator.  
  
-Example 
-Input 
+Example Input 
+```
 Input any number: 22 
 Output 
 Output number of ones: 3 
 Output number of zeros: 29 
+```
  
 ## 13
 Write a C program to input any number and check whether the given number is even or odd using 
 bitwise operator.  
  
-Example 
-Input 
+Example input
+```
 Input number: 12 
 Output 
 12 is even 
+```
  
 ## 14 
 Write a C program to concatenate two strings in single string. You cannot use the built-in function 
 here. You should use dynamic memory allocation at the heap.  
  
-Example 
-Input 
+Example input 
+```
 Input string1: I love 
 Input string2: DIT632 
 Output 
 Concatenated string: I love DIT632 
+```
  
 ## 15 
 Write  a  C  program  to  input  any  number  from  user  and  find  highest  order  set bit  of  given  number 
@@ -176,9 +192,11 @@ using bitwise operator.
  
 Example 
 Input 
+```
 Input any number: 22 
 Output 
 Highest order set bit in 22 is 4. 
+```
  
 ## 16 
 Write  a  C  program  to  input  marks  of  five  subjects  Physics,  Chemistry,  Biology,  Mathematics  and 
@@ -193,6 +211,7 @@ If percentage < 40% : Grade F
  
 Example 
 Input 
+```
 Input marks of five subjects: 95 
 95 
 97 
@@ -200,13 +219,14 @@ Input marks of five subjects: 95
 90 
 Output 
 Percentage = 95.00  
-Grade A 
+Grade A
+```
 
 ## 17
  
 The following program has two mistakes in it, please find them, explain why these are mistakes 
 and correct them:  
- 
+```
 #include <stdio.h> 
 #define MAX_SIZE 5 //Maximum size of the array 
 int main() 
@@ -233,13 +253,14 @@ int main()
         } 
     } 
     return 0; 
-} 
+}
+```
  
 Tips! Execute the program and test it! 
  
 ## 18
 There are two mistakes in this program. Please find them, explain them and correct them: 
- 
+```
 #include<stdio.h> //Used to include basic c library files 
 void main() //Used to execute the C application 
 { 
@@ -253,11 +274,12 @@ void main() //Used to execute the C application
     //and another element 
     printf("%c\n",b[700]);  
 } 
+```
 
 ## 19
  
 The program below contains two mistakes. Please find them, explain them and correct them.  
- 
+```
 #include<stdio.h> //Used to include basic c library files 
  
 void main()//main() method for executing the application 
@@ -275,14 +297,15 @@ method
 int sum(int a, int b) 
 { 
     return a*b; // making the calculation 
-} 
+}
+```
 
 ## 20
  
 The program below handles linked lists, but it is incomplete. I’ve forgotten to add the body of the 
 function “length” and the code to delete the list. I marked the places with //TODO:. Please add the 
 missing code and test it.  
- 
+```
 #include <stdio.h> 
 #include <string.h> 
 #include <stdlib.h> 
@@ -381,6 +404,7 @@ void main() {
     printf("\nList after deleting all items: "); 
     printList(); 
 }
+```
 
 ## 21
  
