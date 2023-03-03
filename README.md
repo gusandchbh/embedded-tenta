@@ -132,7 +132,7 @@ Output
 2 bit of 12 is set (1) 
 ```
  
-## 11 
+## 11 DONE
 Write a C program to input any number from user and toggle or invert or flip nth bit of the given 
 number using bitwise operator.   
 Example Input 
@@ -143,7 +143,7 @@ Output
 After toggling nth bit: 20 (in decimal) 
 ```
  
-## 12
+## 12 DONE
 Write a C program to input any number from user and count number of trailing zeros in the given 
 number using bitwise operator.   
  
