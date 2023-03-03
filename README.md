@@ -2,8 +2,6 @@
 This document contains examples of programming questions that can help you to prepare for the 
 exam. The questions on the actual exam will be different, but if you can solve the problems here, 
 and you have done the work packages, you should have no problem with the exam.   
- 
-C Programming 
 
 ## 1
 I hope that you remember how to add fractions:  
