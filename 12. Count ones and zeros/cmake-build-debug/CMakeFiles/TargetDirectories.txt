@@ -1,0 +1,3 @@
+C:/Users/chris/Desktop/embedded-tenta/12. Count ones and zeros/cmake-build-debug/CMakeFiles/12__Count_ones_and_zeros.dir
+C:/Users/chris/Desktop/embedded-tenta/12. Count ones and zeros/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chris/Desktop/embedded-tenta/12. Count ones and zeros/cmake-build-debug/CMakeFiles/rebuild_cache.dir
