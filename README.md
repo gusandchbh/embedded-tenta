@@ -47,7 +47,7 @@ print_bin(7) => 00000000.00000000.00000000.00000111
 print_bin(make_16bit(7, 1)) => 00000000.00000000.00000001.00000111 
 ```
 
-## 3
+## 3 DONE
 Write a program to print the following pattern: 
 ```
                         C 
@@ -60,7 +60,7 @@ Write a program to print the following pattern:
 ```            
  
  
-## 4
+## 4 DONE
 Write a program that, given a date, three ints (for example, 11 27 1997), will print the number of 
 that day within its year: i.e. Jan 1st is always 1, Dec 31st is either 365 or 366. 
 The months of the year have lengths according to the following rules: 
@@ -71,11 +71,11 @@ The months of the year have lengths according to the following rules:
 • The rest of the months have 30 days.
 ```
  
-## 5 
+## 5 DONE
 Write a program to read a string from the console/stdin and count the number of chars, words, and 
 lines, and print these quantities.  
 
-## 6
+## 6 DONE
 Write a program in C to add two numbers using pointers.  
  
 Test Data : 
@@ -97,7 +97,7 @@ bdca  bdac  cbad  cbda  cabd  cadb  cdab  cdba  db
 ca  dbac  dcba  dcab  dacb  dabc 
 ```
 
-## 8
+## 8 DONE
 Write a program in C to count the number of vowels and consonants in a string using a pointer.  
  
 Test Data : 
@@ -107,8 +107,8 @@ Expected Output :
 Number of vowels : 1                                                                                          
 Number of consonants : 5 
 ```
-
-## 9
+ 
+## 9 DONE
 Write a program in C to check whether two given strings are an anagram. You must use pointers in 
 this task.   
  
@@ -120,7 +120,7 @@ Expected Output :
  spare and pears are Anagram.    
  ```
 
-## 10
+## 10 DONE
 Write a C program to input any number from user and check whether nth bit of the given number is 
 set (1) or not (0).  
  
@@ -155,7 +155,7 @@ Trailing zeros: 1
 ```
  
  
-## 13
+## 13 DONE
 Write a C program to input a number from user and count total number of ones (1s) and zeros (0s) 
 in the given number using bitwise operator.  
  
@@ -167,7 +167,7 @@ Output number of ones: 3
 Output number of zeros: 29 
 ```
  
-## 14
+## 14 DONE
 Write a C program to input any number and check whether the given number is even or odd using 
 bitwise operator.  
  
@@ -177,8 +177,8 @@ Input number: 12
 Output 
 12 is even 
 ```
- 
-## 15 
+  
+## 15 DONE  
 Write a C program to concatenate two strings in single string. You cannot use the built-in function 
 here. You should use dynamic memory allocation at the heap.  
  
@@ -190,7 +190,7 @@ Output
 Concatenated string: I love DIT632 
 ```
  
-## 16
+## 16 DONE
 Write  a  C  program  to  input  any  number  from  user  and  find  highest  order  set bit  of  given  number 
 using bitwise operator. 
  
@@ -202,7 +202,7 @@ Output
 Highest order set bit in 22 is 4. 
 ```
  
-## 17
+## 17 DONE
 Write  a  C  program  to  input  marks  of  five  subjects  Physics,  Chemistry,  Biology,  Mathematics  and 
 Computer, calculate percentage and grade according to given conditions: 
 ```
