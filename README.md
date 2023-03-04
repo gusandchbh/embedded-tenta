@@ -263,7 +263,7 @@ int main()
  
 Tips! Execute the program and test it! 
  
-## 19
+## 19 DONE
 There are two mistakes in this program. Please find them, explain them and correct them: 
 ```
 #include<stdio.h> //Used to include basic c library files 
@@ -281,7 +281,7 @@ void main() //Used to execute the C application
 } 
 ```
 
-## 20
+## 20 DONE
  
 The program below contains two mistakes. Please find them, explain them and correct them.  
 ```
