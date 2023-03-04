@@ -22,7 +22,7 @@ c) Write a function
 int mulFraction(int a, int c, int b, int d)  
 which prints the multiplication of a/c and b/d as a simplified fraction. 
 
-## 2
+## 2 DONE
 The types uint16_t and uint32_t can be found in the library stdint. 
 a) Write a function that prints an unsigned 32-bit integer in binary form.  
 The display format should include a separator at byte boundaries. 
