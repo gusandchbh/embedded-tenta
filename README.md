@@ -227,7 +227,7 @@ Percentage = 95.00
 Grade A
 ```
 
-## 18
+## 18 DONE
  
 The following program has two mistakes in it, please find them, explain why these are mistakes 
 and correct them:  
