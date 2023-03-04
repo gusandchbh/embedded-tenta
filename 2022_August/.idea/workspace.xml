@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="CMakePresetLoader">{
-  &quot;useNewFormat&quot;: true
-}</component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4a90f8d-1997-41ec-9977-917ae6e28e97" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d7187734-bae8-4c53-bea9-b44fa3a62059" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,12 +21,12 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2MNCEUUdrpBAAgTWko4fl7PwL5u" />
+  <component name="ProjectId" id="2MYhMJbvhtynWhhHHfrQSGztMwH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,14 +47,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f4a90f8d-1997-41ec-9977-917ae6e28e97" name="Changes" comment="" />
-      <created>1677598542491</created>
+      <changelist id="d7187734-bae8-4c53-bea9-b44fa3a62059" name="Changes" comment="" />
+      <created>1677950373484</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1677598542491</updated>
-      <workItem from="1677598544884" duration="38000" />
-      <workItem from="1677854017829" duration="59000" />
-      <workItem from="1677950358481" duration="14000" />
+      <updated>1677950373484</updated>
+      <workItem from="1677950374516" duration="26000" />
     </task>
     <servers />
   </component>
