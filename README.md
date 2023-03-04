@@ -305,7 +305,7 @@ int sum(int a, int b)
 }
 ```
 
-## 21
+## 21 DONE
  
 The program below handles linked lists, but it is incomplete. I’ve forgotten to add the body of the 
 function “length” and the code to delete the list. I marked the places with //TODO:. Please add the 
