@@ -73,8 +73,7 @@ When we are finished using the memory allocated on the heap, we need to release 
 free(myInt); // Release memory allocated on the heap
 ```
 
-## 6. What can we do with the allocated memory on the heap, that we cannot do with the memory on
-the stack?
+## 6. What can we do with the allocated memory on the heap, that we cannot do with the memory on the stack?
 
 Memory allocated on the heap provides some capabilities that are not available with memory allocated on the stack:
 
