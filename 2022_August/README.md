@@ -4,7 +4,7 @@
 
 In computer programming, a stack and a heap are both memory management techniques used to allocate and deallocate memory for data storage during program execution. However, they differ in the way they operate and the types of data they store.
 
-Stack
+##Stack
 
 A stack is a data structure that stores data in a last-in-first-out (LIFO) manner. It is typically used for storing temporary data such as function parameters, local variables, and return addresses. When a function is called, the parameters and local variables are pushed onto the stack, and when the function returns, they are popped off the stack.
 
@@ -12,7 +12,7 @@ The stack is usually a fixed-size memory region, allocated by the operating syst
 
 One advantage of using a stack is that it is very efficient and fast. Because it uses a LIFO ordering, the memory access pattern is predictable, which allows for fast memory accesses. Additionally, since the stack size is fixed, it is very easy to manage and avoid memory leaks.
 
-Heap
+##Heap
 
 The heap, on the other hand, is a region of memory used for dynamic memory allocation. It is typically used for storing large data structures, such as arrays and objects, whose size cannot be determined at compile time.
 
@@ -20,7 +20,19 @@ Unlike the stack, the heap is not organized in any specific order, and data can 
 
 One disadvantage of using the heap is that it is slower than the stack. Because the memory access pattern is unpredictable, it can lead to cache misses, which can slow down the program. Additionally, if the program is not careful, it can easily lead to memory leaks or buffer overflows, which can cause crashes or security vulnerabilities.
 
-2. What does it mean that a variable is placed in a memory on the stack?
+## 2. What does it mean that a variable is placed in a memory on the stack?
+
+When a variable is placed in memory on the stack, it means that the memory for that variable is allocated from the stack data structure.
+
+The stack is a region of memory that is used for storing temporary data such as function parameters, local variables, and return addresses. When a function is called, the parameters and local variables are allocated on the stack, and when the function returns, they are deallocated.
+
+To allocate memory on the stack, the compiler reserves a contiguous block of memory of a fixed size at the beginning of the function call. Each variable in the function is then assigned a portion of this block based on its size and data type.
+
+Variables placed on the stack are stored in a last-in-first-out (LIFO) order, meaning the last variable pushed onto the stack is the first variable popped off the stack. This makes it easy to manage memory because the memory is automatically deallocated when the function returns, and there is no need to explicitly deallocate it.
+
+However, it also means that the amount of memory available on the stack is limited, and if the stack overflows, it can cause a stack overflow error or segmentation fault. Therefore, it is important to be mindful of the amount of memory being used on the stack, especially for recursive functions or functions with many local variables.
+
+
 3. What does it mean that a variable is planed in a memory on the heap?
 4. How do we define and allocate memory for a variable of type int on the stack?
 5. How do we define and allocate memory for a variable of type in on the heap?
