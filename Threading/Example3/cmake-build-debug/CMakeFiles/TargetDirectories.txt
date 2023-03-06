@@ -1,0 +1,3 @@
+C:/Users/chris/Desktop/embedded-tenta/Threading/Example3/cmake-build-debug/CMakeFiles/Example3.dir
+C:/Users/chris/Desktop/embedded-tenta/Threading/Example3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chris/Desktop/embedded-tenta/Threading/Example3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
