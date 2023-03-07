@@ -1,0 +1,15 @@
+# ninja log v5
+0	96	6998834282069392	CMakeFiles/Bitpacking.dir/main.c.obj	ec4143173e9c9ba9
+97	225	6998834283336000	Bitpacking.exe	cdf80649216fde15
+1	70	6998835650151701	CMakeFiles/Bitpacking.dir/main.c.obj	ec4143173e9c9ba9
+70	162	6998835651039319	Bitpacking.exe	cdf80649216fde15
+1	63	6998841885159642	CMakeFiles/Bitpacking.dir/main.c.obj	ec4143173e9c9ba9
+63	152	6998841886019336	Bitpacking.exe	cdf80649216fde15
+1	60	6998844498495900	CMakeFiles/Bitpacking.dir/main.c.obj	ec4143173e9c9ba9
+61	148	6998844499353601	Bitpacking.exe	cdf80649216fde15
+3	73	6998853096793806	CMakeFiles/Bitpacking.dir/main.c.obj	ec4143173e9c9ba9
+74	162	6998853097666534	Bitpacking.exe	cdf80649216fde15
+2	93	6998923512244455	CMakeFiles/Bitpacking.dir/main.c.obj	ec4143173e9c9ba9
+94	268	6998923513969842	Bitpacking.exe	cdf80649216fde15
+2	60	6998923614225244	CMakeFiles/Bitpacking.dir/main.c.obj	ec4143173e9c9ba9
+60	147	6998923615062999	Bitpacking.exe	cdf80649216fde15
